@@ -17,10 +17,10 @@ style:
   primary_color: '#0066CC'
 
   # Avatar (You can use local image or image external link)
-  avatar: /images/avatar.svg
+  avatar: /hexo-blog/images/avatar.svg
 
   # Favicon (You can use local image or image external link)
-  favicon: /images/logo.svg
+  favicon: /hexo-blog/images/logo.svg
 
   # Article image align position, value: left | center
   article_img_align: left
@@ -70,12 +70,12 @@ social_contact:
 # Navigation menu
 # ---------------------------------------------------------------------------------------
 menu:
-  Home: /
-  Archives: /archives
+  Home: /hexo-blog
+  Archives: /hexo-blog/archives
   # Categories: /categories
   # Tags: /tags
-  Links: /links
-  About: /about
+  Links: /hexo-blog/links
+  About: /hexo-blog/about
   # Changelog: /changelog
   # ......
 
